@@ -1,0 +1,10 @@
+To Do File:
+
+DAK:
+
+-> Work on program documentation
+-> Work on actual implementation of concept code
+-> Work on the developer documentation
+-> Finalize toolsets
+-> clean up debug and left over code
+-> run experiment 1a-3c (Date And Time integration)
