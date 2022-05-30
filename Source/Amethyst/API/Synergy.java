@@ -7,7 +7,7 @@ public final class Synergy
 		clearScreen();
 		System.gc();
 		System.out.println("+----------------------------+");
-		System.out.println("|      - Lamatshu 1.3 -      |");
+		System.out.println("|      - Lamashtu 1.3 -      |");
 		System.out.println("+----------------------------+");
 		System.out.println("| Powered by Synergy Kernel. |");
 		System.out.println("+----------------------------+");
